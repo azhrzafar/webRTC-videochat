@@ -1,1 +1,21 @@
-Peer-to-Peer Video chat using webRTC 
+Peer-to-Peer Video chat using webRTC
+
+What it'll do
+  Get video from your webcam
+  Stream video between two computers (browsers).
+
+What you'll need
+  You must have Node.js Installed. (https://nodejs.org)
+  Basic knowledge of HTML, CSS and JavaScript, Node.JS.
+  Knowledge of webRTC (https://webrtc.org)
+
+How to run
+  Open terminal and go to main directory of project
+  Run 'npm install' in cmd
+  Start server by command 'node index.js'
+  Open 'localhost:8080' in your browser and from other computer.
+  
+  To run from other computer, use your IP address instead of localhost
+  eg, 192.168.10.4:8080
+  Replace '192.168.10.4' with your IP address.
+
